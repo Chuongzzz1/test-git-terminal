@@ -13,13 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    // test commit 1
-    // ddddddd
-    // ddddddd
-    
-    
-    // daóidoiasjdsadđ
-    //ddddddd
+    // git
 
 
 }
